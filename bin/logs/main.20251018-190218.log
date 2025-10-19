@@ -1,0 +1,47 @@
+2025/10/18 19:02:439839 DEBUG EventLoop createdtruein thread17806 - EventLoop.cc:53
+2025/10/18 19:02:439877 INFO  func =>fd5events=3index=-1 - EPollPoller.cc:66
+2025/10/18 19:02:440089 DEBUG EventLoop createdtruein thread17808 - EventLoop.cc:53
+2025/10/18 19:02:440098 INFO  func =>fd8events=3index=-1 - EPollPoller.cc:66
+2025/10/18 19:02:440110 INFO  EventLoop start looping - EventLoop.cc:82
+2025/10/18 19:02:440114 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:440200 DEBUG EventLoop createdtruein thread17809 - EventLoop.cc:53
+2025/10/18 19:02:440208 INFO  func =>fd10events=3index=-1 - EPollPoller.cc:66
+2025/10/18 19:02:440217 INFO  EventLoop start looping - EventLoop.cc:82
+2025/10/18 19:02:440219 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:440305 DEBUG EventLoop createdtruein thread17810 - EventLoop.cc:53
+2025/10/18 19:02:440314 INFO  func =>fd12events=3index=-1 - EPollPoller.cc:66
+2025/10/18 19:02:440323 INFO  EventLoop start looping - EventLoop.cc:82
+2025/10/18 19:02:440326 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:440337 INFO  func =>fd6events=3index=-1 - EPollPoller.cc:66
+2025/10/18 19:02:440365 INFO  EventLoop start looping - EventLoop.cc:82
+2025/10/18 19:02:440368 INFO  fd total count:2 - EPollPoller.cc:32
+2025/10/18 19:02:447982 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:448103 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:449008 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:449085 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:449556 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:449579 INFO  fd total count:2 - EPollPoller.cc:32
+2025/10/18 19:02:450226 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:450303 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:480037 INFO  events happend1 - EPollPoller.cc:40
+2025/10/18 19:02:480153 INFO  channel handleEvent revents:1 - Channel.cc:73
+2025/10/18 19:02:480373 INFO  TcpServer::newConnection [EchoServer]- new connection [EchoServer-127.0.0.1:8080#1]from 127.0.0.1:43798 - TcpServer.cc:75
+2025/10/18 19:02:480588 INFO  TcpConnection::ctor:[EchoServer-127.0.0.1:8080#1]at fd=13 - TcpConnection.cc:52
+2025/10/18 19:02:480949 INFO  fd total count:2 - EPollPoller.cc:32
+2025/10/18 19:02:481008 INFO  events happend1 - EPollPoller.cc:40
+2025/10/18 19:02:481065 INFO  channel handleEvent revents:1 - Channel.cc:73
+2025/10/18 19:02:481198 INFO  func =>fd13events=3index=-1 - EPollPoller.cc:66
+2025/10/18 19:02:481268 INFO  Connection UP :127.0.0.1:43798 - main.cc:40
+2025/10/18 19:02:481318 INFO  fd total count:2 - EPollPoller.cc:32
+2025/10/18 19:02:458279 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:458355 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:459185 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:459262 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:490577 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:490653 INFO  fd total count:2 - EPollPoller.cc:32
+2025/10/18 19:02:491458 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:491573 INFO  fd total count:2 - EPollPoller.cc:32
+2025/10/18 19:02:467570 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:467646 INFO  fd total count:1 - EPollPoller.cc:32
+2025/10/18 19:02:468597 DEBUG timeout! - EPollPoller.cc:49
+2025/10/18 19:02:468673 INFO  fd total count:1 - EPollPoller.cc:32
